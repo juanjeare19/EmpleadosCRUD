@@ -1,0 +1,10 @@
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\bin\Debug\EmpleadosCRUD.exe.config
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\bin\Debug\EmpleadosCRUD.exe
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\bin\Debug\EmpleadosCRUD.pdb
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.csproj.AssemblyReference.cache
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.Form1.resources
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.Properties.Resources.resources
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.csproj.GenerateResource.cache
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.csproj.CoreCompileInputs.cache
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.exe
+D:\ProyectoC#\EmpleadosCRUD\EmpleadosCRUD\obj\Debug\EmpleadosCRUD.pdb
